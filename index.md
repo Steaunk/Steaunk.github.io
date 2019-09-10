@@ -15,3 +15,7 @@ Website：
 [www.baidu.com](https://www.baidu.com)
 
 [FZYZ OnlineJudge](https://fzyzoi.tk/OnlineJudge/)
+
+[清华大学慕课平台](tsinghua.xuetangx.com)
+
+[清华大学教学门户](http://academic.tsinghua.edu.cn/)
